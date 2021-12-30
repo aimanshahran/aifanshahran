@@ -28,3 +28,14 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![Dreamweaver](https://img.shields.io/badge/-Dreamweaver-05122A?style=flat&logo=adobe-dreamweaver)&nbsp;
 ![Unity](https://img.shields.io/badge/Unity-05122A?style=flat&logo=unity&logoColor=white)&nbsp;
+
+
+⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/aifanshahran">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aifanshahran&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aifanshahran&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
