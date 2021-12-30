@@ -2,10 +2,10 @@
 <h3 align="center">Software Engineer | Final Year Student | University of Malaya</h3>
 <hr>
 <p align="center">
-<img src="https://img.shields.io/badge/Age-23-blue?style=for-the-badge&logo=appveyor" />
-  <img src="https://img.shields.io/badge/Focus-Software%20Engineering-brightgreen?style=for-the-badge&logo=appveyor" />
-  <img src="https://img.shields.io/badge/Lives-Penang,%20Malaysia-success?style=for-the-badge&logo=appveyor" />
-  <img src="https://img.shields.io/badge/Languages-English%20%26%20Malay-brightgreen?style=for-the-badge&logo=appveyor" />
+<img src="https://img.shields.io/badge/Age-23-blue?style=flat-square&logo=appveyor" />
+  <img src="https://img.shields.io/badge/Focus-Software%20Engineering-brightgreen?style=flat-squaree&logo=appveyor" />
+  <img src="https://img.shields.io/badge/Lives-Penang,%20Malaysia-success?style=flat-square&logo=appveyor" />
+  <img src="https://img.shields.io/badge/Languages-English%20%26%20Malay-brightgreen?style=flat-square&logo=appveyor" />
 </p>
 <hr>
 <img alt="Night Coding" data-original-height="185" data-original-width="300" height="123" width="200" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
