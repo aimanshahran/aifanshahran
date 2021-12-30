@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Malay-brightgreen?style=for-the-badge&logo=appveyor" />
 </p>
 <hr>
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" data-original-height="185" data-original-width="300" height="123" width="200" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 🛠 &nbsp;Tech Stack
 
