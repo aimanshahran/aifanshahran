@@ -28,6 +28,7 @@
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![Dreamweaver](https://img.shields.io/badge/-Dreamweaver-05122A?style=flat&logo=adobe-dreamweaver)&nbsp;
+![PhpStorm](https://img.shields.io/badge/-Phpstorm-05122A?style=flat&logo=phpstorm)&nbsp;
 ![Unity](https://img.shields.io/badge/Unity-05122A?style=flat&logo=unity&logoColor=white)&nbsp;
 
 
